@@ -3,8 +3,10 @@
 	flex-direction: column;
 	align-items: center;
 	color: blue;
+	font-size: 30px;
 }
 .section{
 	background-color: teal;
+	color: white;
 
 }
